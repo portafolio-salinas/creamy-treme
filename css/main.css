@@ -1,0 +1,44 @@
+.menu {
+	background: #D50F26;
+	margin-bottom: 0;
+}
+.icon-bar {
+	background: #fff;
+}
+.borde {
+	border: 1px solid white;
+}
+.helado {
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+/*sacar*/
+}
+.oscuro {
+	background-color: rgba(62,63,64,.5);
+}
+.blanco {
+	color: white;
+	margin-bottom: 50%;
+}
+.creamy {
+	margin-top: 50%;
+	color: white;
+}
+.piel {
+	background-color: #FBA653;
+	color: red; 
+}
+.ice {
+	margin-bottom: 6%;
+	margin-top: 6%;
+}
+img {
+	max-width: 100%;
+}
+.titulo {
+	margin-top: 20%;
+}
+
+
+/* Inserta tu código aquí */
